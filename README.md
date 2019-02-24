@@ -1,2 +1,2 @@
-# startpack-easy
-Starting template: html, css, js
+# Blueasy
+Персональный сайт фотографа

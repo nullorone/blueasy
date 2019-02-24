@@ -1,7 +1,7 @@
 {
-  "name": "my-project",
+  "name": "blueasy",
   "version": "1.0.0",
-  "description": "Проект",
+  "description": "Photographer personal site",
   "devDependencies": {
     "@htmlacademy/editorconfig-cli": "1.x",
     "autoprefixer": "^9.4.7",
