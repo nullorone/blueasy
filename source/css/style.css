@@ -3,6 +3,7 @@
   font-family: "Segoe UI";
   font-weight: 300;
   font-style: normal;
+  font-display: swap;
   src: local("Segoe UI Light"), local("SegoeUI-Light"),
     url("../fonts/segoeuilight.woff") format("woff"),
     url("../fonts/segoeuilight.woff2") format("woff2");
@@ -12,6 +13,7 @@
   font-family: "Segoe UI";
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
   src: local("Segoe UI"), local("SegoeUI"),
     url("../fonts/segoeui.woff") format("woff"),
     url("../fonts/segoeui.woff2") format("woff");
@@ -21,6 +23,7 @@
   font-family: "Segoe UI";
   font-weight: 700;
   font-style: normal;
+  font-display: swap;
   src: local("Segoe UI Bold"), local("SegoeUI-Bold"),
     url("../fonts/segoeuibold.woff") format("woff"),
     url("../fonts/segoeuibold.woff2") format("woff2");
@@ -30,6 +33,7 @@
   font-family: "Segoe UI Semibold";
   font-weight: 600;
   font-style: normal;
+  font-display: swap;
   src: local("Segoe UI Semibold"), local("SegoeUI-SemiBold"),
     url("../fonts/segoeuisemibold.woff") format("woff"),
     url("../fonts/segoeuisemibold.woff2") format("woff2");
