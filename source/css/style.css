@@ -106,6 +106,7 @@ body {
   font-weight: normal;
   font-style: normal;
   font-size: 14px;
+  font-display: swap;
   line-height: 24px;
 }
 
@@ -114,6 +115,13 @@ body {
   background-image: url("../img/bg-header.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+@media (min-resolution: 144dpi),
+  (min-resolution: 1.5dppx) {
+  .header {
+    background-image: url("../img/bg-header@2x.jpg");
+  }
 }
 
 @media (max-width: 767px) {
@@ -728,6 +736,13 @@ body {
   background-position: bottom center;
 }
 
+@media (min-resolution: 144dpi),
+  (min-resolution: 1.5dppx) {
+  .about {
+    background-image: url("../img/bg-about@2x.jpg");
+  }
+}
+
 @media (max-width: 991px) {
   .about {
     padding-top: 30px;
@@ -942,6 +957,13 @@ body {
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
+}
+
+@media (min-resolution: 144dpi),
+  (min-resolution: 1.5dppx) {
+  .contact {
+    background-image: url("../img/bg-contact@2x.jpg");
+  }
 }
 
 @media (max-width: 991px) {
